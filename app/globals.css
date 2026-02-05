@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-bg text-text antialiased;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(79, 140, 255, 0.18), transparent 40%),
+    radial-gradient(circle at 80% 0%, rgba(130, 82, 255, 0.16), transparent 35%);
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.22;
+  background-image: theme('backgroundImage.noise');
+}
+
+.card-glass {
+  @apply rounded-3xl border border-white/10 bg-white/5 p-6 backdrop-blur-sm transition;
+}
