@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scout drone
+* source:	https://sketchfab.com/3d-models/scout-drone-8ce19923de664d76a79167a380df11c8
+* author:	epilogueronin (https://sketchfab.com/epilogueronin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scout drone" (https://sketchfab.com/3d-models/scout-drone-8ce19923de664d76a79167a380df11c8) by epilogueronin (https://sketchfab.com/epilogueronin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

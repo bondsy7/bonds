@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "expertise": "Expertise",
+    "playground": "Playground",
+    "studio": "AI Studio",
+    "hobbies": "Hobbies",
+    "contact": "Contact"
+  },
+  "home": {
+    "kicker": "Daniel Bonds",
+    "headline": "Leadership with foresight. Innovation meets digital execution.",
+    "sub": "I build modern systems, lead teams, and apply AI with intent so ideas turn into outcomes.",
+    "ctaProjects": "View projects",
+    "ctaContact": "Contact",
+    "cards": {
+      "ai": {
+        "label": "AI",
+        "title": "Automations and systems",
+        "text": "Workflows, integrations, quality gates, output."
+      },
+      "web": {
+        "label": "Web",
+        "title": "Next and architecture",
+        "text": "Modern, fast, maintainable, well structured."
+      },
+      "visual": {
+        "label": "Visual",
+        "title": "Photo and video",
+        "text": "Pipelines, style control, consistency, speed."
+      },
+      "lead": {
+        "label": "Leadership",
+        "title": "Delivery and leadership",
+        "text": "Roadmaps, focus, execution, clear communication."
+      }
+    }
+  },
+  "projects": {
+    "title": "Selected Projects",
+    "sub": "A glimpse into my work at the intersection of technology, design, and strategy.",
+    "open": "Open Case Study",
+    "details": {
+      "ai-automation-suite": {
+        "title": "AI Automation Suite",
+        "description": "A comprehensive enterprise solution for automating content and ops workflows. The system orchestrates various LLMs to deliver high-quality results with human-in-the-loop validation.",
+        "highlights": [
+          "Reduced manual work by 60%",
+          "Integrated GPT-4 and Claude 3",
+          "Real-time monitoring dashboard"
+        ]
+      },
+      "modern-web-platform": {
+        "title": "Modern Web Platform",
+        "description": "Relaunch of a high-traffic e-commerce platform focusing on Core Web Vitals and conversion rate. Implemented with Next.js App Router and a scalable component library.",
+        "highlights": [
+          "Lighthouse score of 98+",
+          "Headless CMS integration",
+          "Fully typed design system"
+        ]
+      },
+      "visual-studio-pipeline": {
+        "title": "Visual Studio Pipeline",
+        "description": "Automated image and video processing for scalable media production. Uses WebGL and server-side rendering for dynamic on-the-fly asset generation.",
+        "highlights": [
+          "On-the-fly 3D product renderings",
+          "Consistent color grading",
+          "High-volume export API"
+        ]
+      },
+      "delivery-leadership": {
+        "title": "Delivery Leadership",
+        "description": "Transformation of a product organization towards agile delivery methods. Introduction of clear roadmaps, OKRs, and a culture of ownership.",
+        "highlights": [
+          "Leading 15+ engineers",
+          "Establishing CI/CD standards",
+          "Mentoring and career planning"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "sub": "Tech enthusiast, team lead, and problem solver.",
+    "intro": "Hi, I'm Daniel. For over 10 years, I've been navigating the space between code, design, and product strategy. My focus is on turning complex technical challenges into elegant, user-centric solutions.",
+    "values": {
+      "title": "My Values",
+      "items": [
+        {
+          "title": "Clarity",
+          "text": "Simplicity wins. Whether in code or communication."
+        },
+        {
+          "title": "Quality",
+          "text": "I believe in craftsmanship and attention to detail."
+        },
+        {
+          "title": "Empathy",
+          "text": "Technology is built by people for people."
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "year": "2024",
+        "role": "Senior Tech Lead",
+        "desc": "Leading cross-functional teams and architectural responsibility."
+      },
+      {
+        "year": "2021",
+        "role": "Senior Frontend Engineer",
+        "desc": "Specializing in React ecosystem and performance optimization."
+      },
+      {
+        "year": "2018",
+        "role": "Full Stack Developer",
+        "desc": "Developing scalable web apps and APIs."
+      },
+      {
+        "year": "2015",
+        "role": "Junior Developer",
+        "desc": "Starting out in the world of professional software development."
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Expertise & Skills",
+    "sub": "My technical toolkit and methodological approach.",
+    "tech": "Technology",
+    "method": "Methodology",
+    "skills": [
+      {
+        "category": "Frontend",
+        "items": [
+          "React / Next.js",
+          "TypeScript",
+          "Tailwind CSS",
+          "Framer Motion",
+          "Three.js"
+        ]
+      },
+      {
+        "category": "Backend",
+        "items": [
+          "Node.js",
+          "PostgreSQL",
+          "Serverless",
+          "GraphQL",
+          "Python"
+        ]
+      },
+      {
+        "category": "AI / Ops",
+        "items": [
+          "LLM Integration",
+          "Prompt Engineering",
+          "Docker",
+          "CI/CD",
+          "Vercel"
+        ]
+      },
+      {
+        "category": "Design",
+        "items": [
+          "Figma",
+          "UI/UX Systems",
+          "Accessibility",
+          "Motion Design"
+        ]
+      }
+    ]
+  },
+  "playground": {
+    "title": "Playground",
+    "sub": "Small experiments, code snippets, and visual toys.",
+    "items": [
+      {
+        "title": "WebGL Particles",
+        "desc": "Interactive particle simulation with React Three Fiber."
+      },
+      {
+        "title": "AI Chat Interface",
+        "desc": "Experimental UI concept for generative chats."
+      },
+      {
+        "title": "Physics Engine",
+        "desc": "2D physics toy using Matter.js."
+      }
+    ]
+  },
+  "hobbies": {
+    "title": "Hobbies & Interests",
+    "sub": "What excites me away from the screen.",
+    "items": [
+      {
+        "title": "Photography",
+        "desc": "Street & Architecture Photography. Capturing the moment."
+      },
+      {
+        "title": "Hiking",
+        "desc": "Clearing the head in the Alps."
+      },
+      {
+        "title": "Gaming",
+        "desc": "Indie games and story-driven adventures."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "sub": "Let's talk. I'm always open for interesting projects and exchange.",
+    "email": "hello@danielbonds.dev",
+    "socials": {
+      "github": "Follow on GitHub",
+      "linkedin": "Connect on LinkedIn",
+      "twitter": "Follow on X / Twitter"
+    },
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy"
+  }
+}

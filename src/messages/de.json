@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "projects": "Projekte",
+    "expertise": "Expertise",
+    "playground": "Playground",
+    "studio": "AI Studio",
+    "hobbies": "Hobbys",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "kicker": "Daniel Bonds",
+    "headline": "Leitung mit Weitblick. Innovation trifft Digitalisierung.",
+    "sub": "Ich entwickle moderne Systeme, führe Teams und setze AI sinnvoll ein, damit aus Ideen echte Ergebnisse werden.",
+    "ctaProjects": "Projekte ansehen",
+    "ctaContact": "Kontakt",
+    "cards": {
+      "ai": {
+        "label": "AI",
+        "title": "Automations und Systeme",
+        "text": "Workflows, Integrationen, Qualitätslogik, Output."
+      },
+      "web": {
+        "label": "Web",
+        "title": "Next und Architecture",
+        "text": "Modern, schnell, wartbar, sauber strukturiert."
+      },
+      "visual": {
+        "label": "Visual",
+        "title": "Foto und Video",
+        "text": "Content Pipelines, Stil, Konsistenz und Tempo."
+      },
+      "lead": {
+        "label": "Leadership",
+        "title": "Delivery und Führung",
+        "text": "Roadmaps, Fokus, Execution, klare Kommunikation."
+      }
+    }
+  },
+  "projects": {
+    "title": "Ausgewählte Projekte",
+    "sub": "Ein Einblick in meine Arbeit an der Schnittstelle von Technologie, Design und Strategie.",
+    "open": "Case Study öffnen",
+    "details": {
+      "ai-automation-suite": {
+        "title": "AI Automation Suite",
+        "description": "Eine umfassende Enterprise-Lösung zur Automatisierung von Content- und Ops-Workflows. Das System orchestrriert verschiedene LLMs, um hochwertige Ergebnisse mit Human-in-the-Loop Validierung zu liefern.",
+        "highlights": [
+          "Reduzierung der manuellen Arbeit um 60%",
+          "Integration von GPT-4 und Claude 3",
+          "Echtzeit-Monitoring Dashboard"
+        ]
+      },
+      "modern-web-platform": {
+        "title": "Modern Web Platform",
+        "description": "Relaunch einer High-Traffic E-Commerce Plattform mit Fokus auf Core Web Vitals und Conversion Rate. Implementiert mit Next.js App Router und einer skalierbaren Component Library.",
+        "highlights": [
+          "Lighthouse Score von 98+",
+          "Headless CMS Integration",
+          "Vollständig typisiertes Design System"
+        ]
+      },
+      "visual-studio-pipeline": {
+        "title": "Visual Studio Pipeline",
+        "description": "Automatisierte Bild- und Videoverarbeitung für skalierbare Medienproduktion. Nutzt WebGL und Server-Side Rendering für dynamische Asset-Generierung in Brand-Qualität.",
+        "highlights": [
+          "3D-Produktrenderings on-the-fly",
+          "Konsistentes Color Grading",
+          "High-Volume Export API"
+        ]
+      },
+      "delivery-leadership": {
+        "title": "Delivery Leadership",
+        "description": "Transformation einer Produkt-Organisation hin zu agilen Delivery-Methoden. Einführung von klaren Roadmaps, OKRs und einer Kultur der Verantwortung.",
+        "highlights": [
+          "Führung von 15+ Entwicklern",
+          "Etablierung von CI/CD Standards",
+          "Mentoring und Karriereplanung"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "Über mich",
+    "sub": "Tech-Enthusiast, Team-Lead und Problemlöser.",
+    "intro": "Hi, ich bin Daniel. Seit über 10 Jahren bewege ich mich im Spannungsfeld zwischen Code, Design und Produktstrategie. Mein Fokus liegt darauf, komplexe technische Herausforderungen in elegante, nutzerzentrierte Lösungen zu verwandeln.",
+    "values": {
+      "title": "Meine Werte",
+      "items": [
+        {
+          "title": "Klarheit",
+          "text": "Einfachheit gewinnt. Ob im Code oder in der Kommunikation."
+        },
+        {
+          "title": "Qualität",
+          "text": "Ich glaube an Handwerk und Liebe zum Detail."
+        },
+        {
+          "title": "Empathie",
+          "text": "Technologie wird von Menschen für Menschen gebaut."
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "year": "2024",
+        "role": "Senior Tech Lead",
+        "desc": "Führung von Cross-Functional Teams und Architektur-Verantwortung."
+      },
+      {
+        "year": "2021",
+        "role": "Senior Frontend Engineer",
+        "desc": "Spezialisierung auf React Ökosystem und Performance Optimierung."
+      },
+      {
+        "year": "2018",
+        "role": "Full Stack Developer",
+        "desc": "Entwicklung von skalierbaren Web-Apps und APIs."
+      },
+      {
+        "year": "2015",
+        "role": "Junior Developer",
+        "desc": "Der Start in die Welt der professionellen Softwareentwicklung."
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Expertise & Skills",
+    "sub": "Mein technischer Werkzeugkasten und methodischer Ansatz.",
+    "tech": "Technologie",
+    "method": "Methodik",
+    "skills": [
+      {
+        "category": "Frontend",
+        "items": [
+          "React / Next.js",
+          "TypeScript",
+          "Tailwind CSS",
+          "Framer Motion",
+          "Three.js"
+        ]
+      },
+      {
+        "category": "Backend",
+        "items": [
+          "Node.js",
+          "PostgreSQL",
+          "Serverless",
+          "GraphQL",
+          "Python"
+        ]
+      },
+      {
+        "category": "AI / Ops",
+        "items": [
+          "LLM Integration",
+          "Prompt Engineering",
+          "Docker",
+          "CI/CD",
+          "Vercel"
+        ]
+      },
+      {
+        "category": "Design",
+        "items": [
+          "Figma",
+          "UI/UX Systems",
+          "Accessibility",
+          "Motion Design"
+        ]
+      }
+    ]
+  },
+  "playground": {
+    "title": "Playground",
+    "sub": "Kleine Experimente, Code-Snippets und visuelle Spielereien.",
+    "items": [
+      {
+        "title": "WebGL Particles",
+        "desc": "Interaktive Partikelsimulation mit React Three Fiber."
+      },
+      {
+        "title": "AI Chat Interface",
+        "desc": "Experimentelles UI Konzept für generative Chats."
+      },
+      {
+        "title": "Physics Engine",
+        "desc": "2D Physik-Spielerei mit Matter.js."
+      }
+    ]
+  },
+  "hobbies": {
+    "title": "Hobbys & Interessen",
+    "sub": "Was mich abseits vom Bildschirm begeistert.",
+    "items": [
+      {
+        "title": "Fotografie",
+        "desc": "Street & Architecture Photography. Den Moment festhalten."
+      },
+      {
+        "title": "Wandern",
+        "desc": "Kopf freibekommen in den Alpen."
+      },
+      {
+        "title": "Gaming",
+        "desc": "Indie Games und Story-driven Adventures."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "sub": "Lass uns sprechen. Ich bin immer offen für spannende Projekte und Austausch.",
+    "email": "hello@danielbonds.dev",
+    "socials": {
+      "github": "Auf GitHub folgen",
+      "linkedin": "Vernetzen auf LinkedIn",
+      "twitter": "Folgen auf X / Twitter"
+    },
+    "form": {
+      "name": "Dein Name",
+      "email": "Deine Email",
+      "message": "Deine Nachricht",
+      "send": "Nachricht senden"
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  }
+}
