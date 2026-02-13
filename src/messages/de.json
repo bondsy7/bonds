@@ -228,5 +228,54 @@
     "rights": "Alle Rechte vorbehalten.",
     "imprint": "Impressum",
     "privacy": "Datenschutz"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "section1": {
+      "title": "Angaben gemäß § 5 TMG",
+      "text": "Daniel Bonds\nHeckenpfad 17\n63075 Offenbach"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "phone": "Telefon: 069 812703",
+      "email": "E-Mail: mail@d-bonds.de",
+      "website": "Website: www.d-bonds.de"
+    },
+    "editorial": {
+      "title": "Redaktionell verantwortlich",
+      "text": "Verantwortlich nach § 18 Abs. 2 MStV:\nDaniel Bonds\nHeckenpfad 17\n63075 Offenbach"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "section1": {
+      "title": "1. Datenschutz auf einen Blick",
+      "text": "Der Schutz Ihrer persönlichen Daten ist mir wichtig. Personenbezogene Daten werden vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung behandelt.\n\nWenn Sie diese Website nutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können."
+    },
+    "section2": {
+      "title": "2. Verantwortlicher",
+      "text": "Verantwortlich für die Datenverarbeitung auf dieser Website ist:\n\nDaniel Bonds\nHeckenpfad 17\n63075 Offenbach am Main\nTelefon: 069 812703\nE-Mail: mail@d-bonds.de"
+    },
+    "section3": {
+      "title": "3. Erhebung und Speicherung personenbezogener Daten",
+      "subtitle": "Server Log Dateien",
+      "text": "Der Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server Log Dateien, die Ihr Browser automatisch übermittelt. Dies sind zum Beispiel:\n\n- Browsertyp und Browserversion\n- verwendetes Betriebssystem\n- Referrer URL\n- Hostname des zugreifenden Rechners\n- Uhrzeit der Serveranfrage\n- IP Adresse\n\nDiese Daten werden nicht mit anderen Datenquellen zusammengeführt."
+    },
+    "section4": {
+      "title": "4. Kontaktaufnahme",
+      "text": "Wenn Sie mir per E-Mail oder über ein Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zum Zwecke der Bearbeitung der Anfrage gespeichert.\n\nDiese Daten gebe ich nicht ohne Ihre Einwilligung weiter."
+    },
+    "section5": {
+      "title": "5. Ihre Rechte",
+      "text": "Sie haben jederzeit das Recht:\n\n- Auskunft über Ihre gespeicherten Daten zu erhalten\n- Berichtigung unrichtiger Daten zu verlangen\n- Löschung Ihrer Daten zu verlangen\n- Einschränkung der Verarbeitung zu verlangen\n- Widerspruch gegen die Verarbeitung einzulegen\n- Datenübertragbarkeit zu verlangen\n\nHierzu genügt eine formlose Mitteilung per E-Mail."
+    },
+    "section6": {
+      "title": "6. Beschwerderecht",
+      "text": "Sie haben das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren."
+    },
+    "section7": {
+      "title": "7. SSL oder TLS Verschlüsselung",
+      "text": "Diese Seite nutzt aus Sicherheitsgründen eine SSL oder TLS Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von http auf https wechselt."
+    }
   }
 }

@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Daniel Bonds Portfolio
 
-## Getting Started
+A premium, high-performance portfolio at the intersection of leadership, technology, and AI innovation. Built with Next.js 15, Three.js, and Tailwind CSS 4.
 
-First, run the development server:
+## 🚀 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is a sophisticated digital showcase for Daniel Bonds, a Senior Tech Lead with over 10 years of experience. It features immersive 3D experiences, advanced AI integrations, and a robust multi-language (i18n) architecture.
+
+## ✨ Key Features
+
+- **🌀 Immersive 3D Experience**: Powered by Three.js and React Three Fiber, featuring interactive WebGL scenes and physics-based interactions.
+- **🤖 AI Studio**: A dedicated space for AI-driven experiments and orchestrations, integrating OpenAI and Google Gemini APIs.
+- **🌍 Internationalization (i18n)**: Full multi-language support (German/English) using `next-intl`.
+- **🎭 Advanced Animations**: Smooth, performant animations driven by Framer Motion and Lenis scroll optimization.
+- **✨ Premium UI**: A futuristic, dark-themed aesthetic with glowing micro-interactions and custom typography.
+- **📱 Responsive Design**: Fully optimized for all device sizes with a mobile-first approach.
+
+## 🛠 Tech Stack
+
+- **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **3D Engine**: [Three.js](https://threejs.org/) / [@react-three/fiber](https://github.com/pmndrs/react-three-fiber)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Smooth Scroll**: [Lenis](https://github.com/darkroomengineering/lenis)
+- **Localization**: [next-intl](https://next-intl-docs.vercel.app/)
+- **AI Integration**: OpenAI & Google Generative AI (Gemini)
+- **Icons**: [Lucide React](https://lucide.dev/)
+
+## 📂 Project Structure
+
+- `/src/app/[locale]` - Localized routes and page components.
+- `/src/components` - Reusable UI components (Nav, Footer, UI primitives).
+- `/src/components/motion` - Animation-specific wrappers and helpers.
+- `/src/components/orchestrator` - 3D and AI logic for the AI Studio.
+- `/src/messages` - Localization JSON files for German and English.
+- `/scripts` - Utility and testing scripts.
+
+## 🏁 Getting Started
+
+### Prerequisites
+
+- Node.js 20.x or higher
+- npm / yarn / pnpm
+
+### Installation
+
+1.  **Clone the repository**:
+    ```bash
+    git clone [repository-url]
+    cd daniel-bonds-portfolio
+    ```
+
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+3.  **Environment Variables**:
+    Create a `.env.local` file and add your API keys:
+    ```env
+    OPENAI_API_KEY=your_key_here
+    GOOGLE_API_KEY=your_key_here
+    ```
+
+4.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📄 License
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project is private and all rights are reserved.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

@@ -228,5 +228,54 @@
     "rights": "All rights reserved.",
     "imprint": "Imprint",
     "privacy": "Privacy Policy"
+  },
+  "imprint": {
+    "title": "Imprint",
+    "section1": {
+      "title": "Information according to § 5 TMG",
+      "text": "Daniel Bonds\nHeckenpfad 17\n63075 Offenbach"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "Phone: 069 812703",
+      "email": "Email: mail@d-bonds.de",
+      "website": "Website: www.d-bonds.de"
+    },
+    "editorial": {
+      "title": "Editorially responsible",
+      "text": "Responsible according to § 18 Abs. 2 MStV:\nDaniel Bonds\nHeckenpfad 17\n63075 Offenbach"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "section1": {
+      "title": "1. Privacy at a Glance",
+      "text": "The protection of your personal data is important to me. Personal data is treated confidentially and in accordance with the statutory data protection regulations and this privacy policy.\n\nWhen you use this website, various personal data are collected. Personal data is data with which you can be personally identified."
+    },
+    "section2": {
+      "title": "2. Controller",
+      "text": "The controller responsible for data processing on this website is:\n\nDaniel Bonds\nHeckenpfad 17\n63075 Offenbach am Main\nPhone: 069 812703\nEmail: mail@d-bonds.de"
+    },
+    "section3": {
+      "title": "3. Collection and Storage of Personal Data",
+      "subtitle": "Server Log Files",
+      "text": "The provider of the pages automatically collects and stores information in so-called server log files, which your browser automatically transmits. these are for example:\n\n- Browser type and browser version\n- Operating system used\n- Referrer URL\n- Host name of the accessing computer\n- Time of the server request\n- IP address\n\nThis data is not merged with other data sources."
+    },
+    "section4": {
+      "title": "4. Contact",
+      "text": "If you send me inquiries via email or via a contact form, your details including the contact data you provided there will be stored for the purpose of processing the inquiry.\n\nI do not pass on this data without your consent."
+    },
+    "section5": {
+      "title": "5. Your Rights",
+      "text": "You have the right at any time to:\n\n- Receive information about your stored data\n- Demand correction of incorrect data\n- Demand deletion of your data\n- Demand restriction of processing\n- Object to the processing\n- Demand data portability\n\nFor this purpose, an informal notification via email is sufficient."
+    },
+    "section6": {
+      "title": "6. Right of Complaint",
+      "text": "You have the right to complain to a competent data protection supervisory authority."
+    },
+    "section7": {
+      "title": "7. SSL or TLS Encryption",
+      "text": "For security reasons, this site uses SSL or TLS encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from http to https."
+    }
   }
 }

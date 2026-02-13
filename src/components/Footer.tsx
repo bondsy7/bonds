@@ -1,11 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { Github, Linkedin, Twitter } from "lucide-react";
 
 export function Footer() {
     const t = useTranslations("footer");
+    const locale = useLocale();
 
     function SocialLink({ href, icon: Icon, label }: { href: string, icon: any, label: string }) {
         return (
@@ -37,8 +38,8 @@ export function Footer() {
                 </div>
 
                 <div className="flex gap-6 text-sm text-slate-500 font-medium">
-                    <Link href="#" className="hover:text-blue-600 transition">{t("imprint")}</Link>
-                    <Link href="#" className="hover:text-blue-600 transition">{t("privacy")}</Link>
+                    <Link href={`/${locale}/imprint`} className="hover:text-blue-600 transition">{t("imprint")}</Link>
+                    <Link href={`/${locale}/privacy`} className="hover:text-blue-600 transition">{t("privacy")}</Link>
                 </div>
             </div>
         </footer>
